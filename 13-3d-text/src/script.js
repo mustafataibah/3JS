@@ -11,7 +11,7 @@ THREE.ColorManagement.enabled = false;
  * Base
  */
 // Debug
-const gui = new GUI();
+// const gui = new GUI(`);
 
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
